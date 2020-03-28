@@ -1,6 +1,6 @@
-# clima
+# Weather App
 
-A new Flutter application.
+A Flutter application for weather update.
 
 ## Getting Started
 
